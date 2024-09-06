@@ -26,3 +26,7 @@ The input field is empty
 The email address is not formatted correctly
 
 ## Fun Fact:
+This project allowed me to fully experience the process of taking a design from Figma to web design.
+## Check it out:
+www.chitsintech.com
+
